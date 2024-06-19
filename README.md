@@ -1,6 +1,6 @@
 ## About Me
 
-📚 MLE & CompSci grad student @GaTech.  Meta alum (DS mgmt). 🌱 Grateful to encourage growth in both people and systems.
+MLE & CompSci grad student @GaTech.  Meta alum (DS mgmt). 🌱 Grateful to encourage growth in both people and systems.
 
 ## Recent Experience
 
