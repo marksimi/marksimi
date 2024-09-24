@@ -9,7 +9,7 @@ MLE & CompSci grad student @GaTech.  Meta alum (DS mgmt). 🌱 Grateful to encou
 
 ## Education
 
-- MS, Computer Science (Machine Learning) - Georgia Tech (Expected 2024)
+- MS, Computer Science (Machine Learning) - Georgia Tech
 - MS, Analytics (Computational Statistics) - Georgia Tech
 
 ## Interests
