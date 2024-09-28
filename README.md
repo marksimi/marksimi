@@ -1,7 +1,7 @@
 ## About Me
 
-Machine Learning Engineering Manager | Meta Alum | Scaling AI/ML Teams & Systems | 2x MS (CS & DS).
-Grateful to encourage growth in both people and systems.
+- Machine Learning Engineering Manager | Meta Alum | Scaling AI/ML Teams & Systems | 2x MS (CS & DS).
+- Grateful to encourage growth in both people and systems.
 
 ## Recent Experience
 
